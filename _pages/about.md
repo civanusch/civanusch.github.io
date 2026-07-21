@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ludwig Maximilian University Munich</p>
-    <p>Department of Political Science</p>
     <p>Oettingenstraße 67</p>
     <p>80538 Munich</p>
     <p>Germany</p>
