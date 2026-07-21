@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: <a href='#'>Postdoctoral researcher in Political Science</a>. Political communication. Party competition. Political systems. Computational social science.
