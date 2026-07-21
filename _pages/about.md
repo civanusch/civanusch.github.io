@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Postdoctoral researcher in Political Science</a>. Political communication. Party competition. Political systems. Computational social science.
+subtitle: <a href='#'>Postdoc in Political Science</a>. Political communication. Party competition. Political systems. Computational social science.
 
 profile:
   align: right
