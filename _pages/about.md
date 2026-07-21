@@ -6,7 +6,7 @@ subtitle: <a href='#'>Postdoctoral researcher in Political Science</a>. Politica
 
 profile:
   align: right
-  image: civanusch_pic.png
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Ludwig Maximilian University Munich</p>
