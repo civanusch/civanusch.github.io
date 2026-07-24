@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /working_papers/
+permalink: /workingpapers/
 title: Working papers
 description:
 nav: true
@@ -13,8 +13,8 @@ nav_order: 3
 
 {% include bib_search.liquid %}
 
-<div class="working_papers">
+<div class="workingpapers">
 
-{% bibliography --file working_papers %}
+{% bibliography --file workingpapers %}
 
 </div>
