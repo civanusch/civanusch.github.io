@@ -15,6 +15,6 @@ nav_order: 3
 
 <div class="working_papers">
 
-{% bibliography %}
+{% bibliography --file working_papers %}
 
 </div>
