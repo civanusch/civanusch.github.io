@@ -9,6 +9,8 @@ nav_order: 3
 
 <!-- _pages/workingpapers.md -->
 
+<div class="publications">
+
 {% bibliography --file workingpapers %}
 
 </div>
