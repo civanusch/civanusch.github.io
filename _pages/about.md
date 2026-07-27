@@ -34,4 +34,4 @@ My research explores core features that shape and transform contemporary politic
 
 Before joining LMU Munich, I was a research fellow in the [Manifesto Project](https://manifesto-project.wzb.eu/) at the WZB Berlin Social Science Center and completed my PhD in Political Science at Humboldt University Berlin. I hold an MA in Social Science Data Analysis from the University of Essex, as well as a BA and MA in Political Science from the University of Innsbruck. I also serve as Book Review Editor for the [Austrian Journal of Political Science (ÖZP)](https://www.oezp.at/OEZP/en) and volunteer [Science Ambassador](https://youngscience.oead.at/de/wissenschaftsvermittlung/wissenschaftsbotschafter-innen/botschafter-profile/657).
 
-On this website, you can learn more about my research and download my CV. Please feel free to reach out, I would be delighted to connect!
+On this website, you can learn more about my research and teaching, as well as download my CV. Please feel free to reach out, I would be delighted to connect!
