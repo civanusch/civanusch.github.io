@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-12'
 papers:
   Yz0wwIcAAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -10,7 +10,7 @@ papers:
     title: "Rot-Gr\xFCn-Rot passt am besten zusammen"
     year: '2021'
   Yz0wwIcAAAAJ:3fE2CSJIrl8C:
-    citations: 4
+    citations: 5
     title: Where do parties interact? Issue engagement in press releases and tweets
     year: '2025'
   Yz0wwIcAAAAJ:5nxA0vEk-isC:
@@ -25,6 +25,10 @@ papers:
     citations: 1
     title: What Makes it into the Media? Party Messages, Communication Channels, and Media Outlets
     year: '2025'
+  Yz0wwIcAAAAJ:HDshCWvjkbEC:
+    citations: 0
+    title: 'The Austrian Constitutional Court: Supranationally Oriented, but Comparatively One-Sided'
+    year: '2027'
   Yz0wwIcAAAAJ:IWHjjKOFINEC:
     citations: 1
     title: 'Presidents, commissioners, and time pressure: A mixed-methods analysis of migration communication by the European Commission'
@@ -34,7 +38,7 @@ papers:
     title: Making Political Party and Interest Group Texts Accessible and Usable
     year: '2021'
   Yz0wwIcAAAAJ:M3ejUd6NZC8C:
-    citations: 0
+    citations: 2
     title: manifestoberta. Version 56topics.sentence.2024.1.1
     year: '2024'
   Yz0wwIcAAAAJ:MXK_kJrjxJIC:
@@ -46,7 +50,7 @@ papers:
     title: "The Manifesto Data Collection. Manifesto Project (MRG/CMP/MARPOR). Version 2024a. Berlin: Wissenschaftszentrum Berlin f\xFCr Sozialforschung (WZB)/G\xF6ttingen: Institut f\xFCr \u2026"
     year: '2024'
   Yz0wwIcAAAAJ:Se3iqnhoufwC:
-    citations: 26
+    citations: 28
     title: Where do parties talk about what? Party issue salience across communication channels
     year: '2025'
   Yz0wwIcAAAAJ:Tyk-4Ss8FVUC:
@@ -82,7 +86,7 @@ papers:
     title: Same same or different? Party competition in multi-channel communication environments
     year: '2025'
   Yz0wwIcAAAAJ:d1gkVwhDpl0C:
-    citations: 25
+    citations: 26
     title: "Issue Competition in Parliamentary Speeches? A Computer\u2010based Content Analysis of Legislative Debates in the Austrian Nationalrat"
     year: '2023'
   Yz0wwIcAAAAJ:dhFuZR0502QC:
