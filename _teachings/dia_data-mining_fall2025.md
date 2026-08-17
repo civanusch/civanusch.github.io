@@ -5,7 +5,7 @@ description: "This course offers students a theoretical and practical introducti
 instructor: Christoph Ivanusch
 year: 2025
 term: Fall 2025
-location: Vienna School of International Studies
+location: Vienna School of International Studies, Austria
 course_id: dia_data-mining_fall2025
 ---
 
