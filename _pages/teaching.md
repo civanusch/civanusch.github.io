@@ -7,6 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+This page provides an overview of all courses I have taught at university level. The individual courses are listed by year. By clicking on the respective course, you can access more detailed information on the course and its syllabus.
 
 {% include courses.liquid %}
