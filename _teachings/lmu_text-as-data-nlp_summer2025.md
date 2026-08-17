@@ -6,7 +6,7 @@ instructor: Christoph Ivanusch
 year: 2025
 term: Summer 2025
 location: Geschwister Scholl Institute of Political Science, Ludwig Maximilian University Munich, Germany
-course_id: lmu_text-as-data/nlp_summer2025
+course_id: lmu_text-as-data-nlp_summer2025
 ---
 
 [Press here to download the syllabus](https://civanusch.github.io/assets/pdf/syllabus_lmu_text-as-data-nlp_summer2025.pdf)
