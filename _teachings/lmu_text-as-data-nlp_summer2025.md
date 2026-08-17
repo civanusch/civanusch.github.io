@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Text-as-Data/Natural Language Processing for Political Science (MA Political Science)
-description: The course provides an introduction to text-as-data/natural language processing for political science research. Participants will gain insights into the current state of the field and practical experience in designing and implementing quantitative text analysis methods. The course teaches students the necessary steps to conduct their own text-as-data/natural language processing research projects: (1) setting up a data collection and processing pipeline, (2) applying various text analysis methods (e.g., topic classification, scaling, sentiment analysis), and (3) presenting, discussing, evaluating, and interpreting the results. 
+description: "The course provides an introduction to text-as-data/natural language processing for political science research. Participants will gain insights into the current state of the field and practical experience in designing and implementing quantitative text analysis methods. The course teaches students the necessary steps to conduct their own text-as-data/natural language processing research projects: (1) setting up a data collection and processing pipeline, (2) applying various text analysis methods (e.g., topic classification, scaling, sentiment analysis), and (3) presenting, discussing, evaluating, and interpreting the results. "
 instructor: Christoph Ivanusch
 year: 2025
 term: Summer 2025
