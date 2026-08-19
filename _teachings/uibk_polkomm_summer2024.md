@@ -11,4 +11,4 @@ course_id: uibk_polkomm_summer2024
 
 [Press here to download the syllabus - in German](https://civanusch.github.io/assets/pdf/syllabus_uibk_polkomm_summer2024.pdf)
 
-<iframe src="/assets/pdf/syllabus_lmu_uibk_polkomm_summer2024.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/assets/pdf/syllabus_uibk_polkomm_summer2024.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
