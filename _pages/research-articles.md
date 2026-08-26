@@ -1,15 +1,10 @@
 ---
 layout: page
-permalink: /publications/
-title: Publications
+permalink: /publications/research-articles
+title: Research articles
 description:
-nav: true
-nav_order: 2
+nav: false
 ---
-
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
 
