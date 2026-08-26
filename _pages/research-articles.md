@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/research-articles
+permalink: /publications/research-articles/
 title: Research articles
 description:
 nav: false
