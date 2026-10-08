@@ -34,6 +34,8 @@ My research explores core features that shape and transform contemporary politic
 
 Before joining LMU Munich, I was a research fellow in the Manifesto Project at the WZB Berlin Social Science Center and completed my PhD in Political Science at Humboldt University Berlin. I hold an MA in Social Science Data Analysis from the University of Essex, as well as a BA and MA in Political Science from the University of Innsbruck.
 
-Beyond my research, I am committed to serving the academic community and engaging with the public. I serve as Book Review Editor for the [Austrian Journal of Political Science (ÖZP)](https://www.oezp.at/OEZP/en). As a volunteer [Science Ambassador](https://youngscience.oead.at/de/wissenschaftsvermittlung/wissenschaftsbotschafter-innen/botschafter-profile/657), I am happy to visit schools for workshops on political science.
+I am passionate about [teaching](https://civanusch.github.io/teaching/), covering both substantive topics, such as political communication, party competition, and electoral analysis, and methods, such as data mining and computational text analysis. Until now, I have taught at LMU Munich, the University of Innsbruck, and the Vienna School of International Studies.
+
+Beyond my research and teaching, I am committed to serving the academic community and engaging with the public. I serve as Book Review Editor for the [Austrian Journal of Political Science (ÖZP)](https://www.oezp.at/OEZP/en). As a volunteer [Science Ambassador](https://youngscience.oead.at/de/wissenschaftsvermittlung/wissenschaftsbotschafter-innen/botschafter-profile/657), I am happy to visit schools for workshops on political science.
 
 On this website, you can learn more about my research and teaching, as well as download my CV. Please feel free to reach out, I would be delighted to connect!
