@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Postdoc in Political Science</a>. Political communication. Party competition. Political systems. Computational social science.
+subtitle: <a href='#'>Postdoctoral researcher in Political Science</a>. Political communication. Party competition. Political systems. Computational social science.
 
 profile:
   align: right
@@ -32,6 +32,8 @@ Welcome! I am a postdoctoral researcher in Political Science at Ludwig Maximilia
 
 My research explores core features that shape and transform contemporary politics, with a particular focus on political competition and the dynamics of complex political systems. In the first pillar of my research, I investigate how political actors, particularly political parties, communicate and interact in modern media environments. The second pillar of my research focuses on the flows of information and the distribution of power across European democracies, particularly within the multi-level system of the European Union (EU). To address these questions, I draw on and integrate insights from political science, communication research, and computational social science. I am also interested in, and contribute to, the development of research infrastructure for the social sciences, for example through my involvement in the [Manifesto Project](https://manifesto-project.wzb.eu/) and [OPTED](https://opted.eu/).
 
-Before joining LMU Munich, I was a research fellow in the Manifesto Project at the WZB Berlin Social Science Center and completed my PhD in Political Science at Humboldt University Berlin. I hold an MA in Social Science Data Analysis from the University of Essex, as well as a BA and MA in Political Science from the University of Innsbruck. I also serve as Book Review Editor for the [Austrian Journal of Political Science (ÖZP)](https://www.oezp.at/OEZP/en) and volunteer [Science Ambassador](https://youngscience.oead.at/de/wissenschaftsvermittlung/wissenschaftsbotschafter-innen/botschafter-profile/657).
+Before joining LMU Munich, I was a research fellow in the Manifesto Project at the WZB Berlin Social Science Center and completed my PhD in Political Science at Humboldt University Berlin. I hold an MA in Social Science Data Analysis from the University of Essex, as well as a BA and MA in Political Science from the University of Innsbruck.
+
+Beyond my research, I am committed to serving the academic community and engaging with the public. I serve as Book Review Editor for the [Austrian Journal of Political Science (ÖZP)](https://www.oezp.at/OEZP/en). As a volunteer [Science Ambassador](https://youngscience.oead.at/de/wissenschaftsvermittlung/wissenschaftsbotschafter-innen/botschafter-profile/657), I am happy to visit schools for workshops on political science.
 
 On this website, you can learn more about my research and teaching, as well as download my CV. Please feel free to reach out, I would be delighted to connect!
